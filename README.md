@@ -2,7 +2,6 @@
 This is a sample project to demonstrate what is page object model framework and how it can used in selenium to automate any application.
 
 ### DEMO
-### DEMO
 [![DEMO - Click to Watch!](/demo.png)](https://youtu.be/WkYnIXpeeTs "DEMO - Click to Watch!")
 
 ### Libraries 
