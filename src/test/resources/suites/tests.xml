@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="ui">
+    <test name="regression" preserve-order="false">
+        <classes>
+            <class name="uitests.LoginTest"/>
+        </classes>
+    </test>
+</suite>
